@@ -1,0 +1,7 @@
+Environment Checklist:
+
+Python Version: 3.21.1
+Virtual environment: Active (venv)
+Django version: 5.2.6
+Runserver: Working(http://127.0.0.1:8000/)
+Git Remote: Set(origin: https://github.com/Johnroyd/Week1-IT373-Activities )
